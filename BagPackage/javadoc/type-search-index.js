@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"BagPackage","l":"ArrayBag"},{"p":"BagPackage","l":"BagInterface"},{"p":"BagPackage","l":"LinkedBag"}];updateSearchResults();
